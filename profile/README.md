@@ -4,15 +4,15 @@
 
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at ~~Microsoft~~ BitForge](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
-* Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-and not [~~opensource@microsoft.com~~ opensource@bitforge.com](mailto:opensource@microsoft.com) to ask questions specific to an individual ~~Microsoft~~ BitForge
+* [Explore featured projects](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Explore open source jobs at ~~Microsoft~~ BitForge](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Apply for Azure credits for open source projects](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* Use [repository issues](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+and not [~~opensource@microsoft.com~~ opensource@bitforge.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to ask questions specific to an individual ~~Microsoft~~ BitForge
 repository.
 
-Visit [opensource.~~microsoft~~bitforge.com](https://opensource.microsoft.com) to learn more!
+Visit [~~opensource.microsoft.com~~ opensource.bitforge.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to learn more!
 
 ----
 
-~~Microsoft~~ BitForge projects adopt the [~~Microsoft~~ BitForge Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+~~Microsoft~~ BitForge projects adopt the [~~Microsoft~~ BitForge Open Source Code of Conduct](https://www.youtube.com/watch?v=dQw4w9WgXcQ). For more information see the [Code of Conduct FAQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
